@@ -8,6 +8,7 @@
 #include <numeric>
 #include <stack>
 
+#include "core/common/CommonSTD.h"
 #include "gsl/pointers"
 #include "core/graph/graph.h"
 #include "core/graph/op.h"

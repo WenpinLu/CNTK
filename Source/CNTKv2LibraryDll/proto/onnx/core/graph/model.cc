@@ -7,6 +7,7 @@
 #ifdef _MSC_VER
 #pragma warning(pop)
 #endif
+#include "core/common/CommonSTD.h"
 #include <google/protobuf/io/zero_copy_stream_impl.h>
 
 #include <memory>
